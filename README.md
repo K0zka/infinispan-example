@@ -1,0 +1,4 @@
+infinispan-example
+==================
+
+Infinispan example
